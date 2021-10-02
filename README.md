@@ -1,5 +1,25 @@
 # Next.js + Tailwind CSS Example
 
+# Tech Stack
+
+- Next js
+- React js
+- Firebase Firestore Realtime DB
+- Material UI (For Icons)
+- Tailwind css
+- Next Auth
+- Rich text editor
+- Google Authentication
+
+# Steps to use this application
+
+1 . First user will be on a signin page and here user can sign in using his/her google account.<br/>
+2 . After login user will be redirected to the home screen.<br/>
+3 . Here user can add a document by click the add icon on the homepage.<br/>
+4 . Then User will see the model opened and user has to give the document name there in model and enter.<br/>
+5 . Then user can see that document been created on the my documents section slightly behind the add button.<br/>
+6 . And by clicking on that document user can get to that specific document and he can add whatever he want to add to the document and can edit and add image can play with colors using rich text editor.<br/>
+
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
 It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-mode) for Tailwind CSS.
